@@ -1,0 +1,430 @@
+[ 2017-08-29T11:32:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018468s ]
+SQL: SHOW COLUMNS FROM `sp_cate` [ RunTime:0.1476s ]
+SQL: SELECT * FROM `sp_cate`  [ RunTime:0.0248s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\amp\apache\htdocs\Shop\application\Home\Controller\CommonController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: memid D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 27 行.
+NOTIC: [8] Undefined index: memid D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 36 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 118 行.
+NOTIC: [8] Undefined variable: goods_info D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 118 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.334958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.335033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012196s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012258s ]
+
+[ 2017-08-29T11:32:55+08:00 ] 127.0.0.1 /Home/Member/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-08-29T11:32:55+08:00 ] 127.0.0.1 /Home/Member/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2017-08-29T11:33:05+08:00 ] 127.0.0.1 /Home/Member/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `sp_member` [ RunTime:0.1487s ]
+SQL: SELECT * FROM `sp_member` WHERE ( mem_name='ls' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\amp\apache\htdocs\Shop\application\Home\Controller\MemberController.class.php 第 45 行.
+SQL: SHOW COLUMNS FROM `sp_cart` [ RunTime:0.0455s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042991s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-08-29T11:33:09+08:00 ] 127.0.0.1 /Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+SQL: SHOW COLUMNS FROM `sp_cate` [ RunTime:0.0259s ]
+SQL: SELECT * FROM `sp_cate`  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `sp_cart` [ RunTime:0.0107s ]
+SQL: SELECT g.goods_name FROM sp_cart c INNER JOIN sp_goods g on c.cart_goodsid=g.goods_id  WHERE ( cart_memid=2 )  [ RunTime:0.1415s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000455s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000522s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 118 行.
+NOTIC: [8] Undefined variable: goods_info D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 118 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 162 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 164 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056103s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+

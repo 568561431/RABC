@@ -1,0 +1,338 @@
+[ 2017-07-25T21:33:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+SQL: SHOW COLUMNS FROM `sp_cate` [ RunTime:0.0193s ]
+SQL: SELECT * FROM `sp_cate`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000256s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Undefined index: memid D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 27 行.
+NOTIC: [8] Undefined index: memid D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 36 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 118 行.
+NOTIC: [8] Undefined variable: goods_info D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 118 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 157 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 159 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_id - assumed 'cate_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+NOTIC: [8] Use of undefined constant cate_name - assumed 'cate_name' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Home\0e9f9964b50249c273d1dbef3ee7dd51.php 第 152 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041673s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-07-25T21:33:50+08:00 ] 127.0.0.1 /Home/Order/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-07-25T21:33:50+08:00 ] 127.0.0.1 /Home/Member/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000987s ]
+
+[ 2017-07-25T21:34:01+08:00 ] 127.0.0.1 /Home/Order/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008756s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000956s ]
+
+[ 2017-07-25T21:34:01+08:00 ] 127.0.0.1 /Home/Member/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2017-07-25T21:34:03+08:00 ] 127.0.0.1 /Home/Order/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007332s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2017-07-25T21:34:03+08:00 ] 127.0.0.1 /Home/Member/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-07-25T21:34:03+08:00 ] 127.0.0.1 /Home/Order/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007172s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2017-07-25T21:34:03+08:00 ] 127.0.0.1 /Home/Member/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001381s ]
+
+[ 2017-07-25T21:34:03+08:00 ] 127.0.0.1 /Home/Order/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007981s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-07-25T21:34:03+08:00 ] 127.0.0.1 /Home/Member/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2017-07-25T21:34:03+08:00 ] 127.0.0.1 /Home/Order/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-07-25T21:34:03+08:00 ] 127.0.0.1 /Home/Member/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2017-07-25T21:34:04+08:00 ] 127.0.0.1 /Home/Order/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-07-25T21:34:04+08:00 ] 127.0.0.1 /Home/Member/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2017-07-25T21:34:04+08:00 ] 127.0.0.1 /Home/Order/order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-07-25T21:34:04+08:00 ] 127.0.0.1 /Home/Member/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000997s ]
+

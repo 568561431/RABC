@@ -1,0 +1,308 @@
+[ 2017-08-14T12:03:00+08:00 ] 127.0.0.1 /Admin/Main/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043834s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+
+[ 2017-08-14T12:03:02+08:00 ] 127.0.0.1 /Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-08-14T12:03:02+08:00 ] 127.0.0.1 /Admin/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000812s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2017-08-14T12:03:14+08:00 ] 127.0.0.1 /Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+SQL: SELECT * FROM `sp_manager` WHERE ( manager_name='admin' ) LIMIT 1   [ RunTime:0.1489s ]
+SQL: UPDATE `sp_manager` SET `manager_login`='1502683394' WHERE `manager_id` = '1' [ RunTime:0.0428s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006872s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2017-08-14T12:03:16+08:00 ] 127.0.0.1 /Admin/Main/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036739s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-08-14T12:03:16+08:00 ] 127.0.0.1 /Admin/Main/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-08-14T12:03:17+08:00 ] 127.0.0.1 /Admin/Main/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SELECT * FROM `sp_manager` WHERE `manager_id` = '1' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035499s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-08-14T12:03:18+08:00 ] 127.0.0.1 /Admin/Main/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.1318s ]
+SQL: SHOW COLUMNS FROM `sp_auth` [ RunTime:0.0317s ]
+SQL: SELECT * FROM `sp_auth` WHERE ( auth_pid=0 and auth_show=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_auth` WHERE ( auth_pid!=0 and auth_show=1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060667s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-08-14T12:03:23+08:00 ] 127.0.0.1 /Admin/Main/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0286s ]
+SQL: SHOW COLUMNS FROM `sp_auth` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `sp_auth` WHERE ( auth_pid=0 and auth_show=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `sp_auth` WHERE ( auth_pid!=0 and auth_show=1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-08-14T12:03:26+08:00 ] 127.0.0.1 /Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SELECT g.*,c.cate_name pname FROM sp_goods g left join sp_cate c on g.goods_cateid=c.cate_id  LIMIT 0,5   [ RunTime:0.0383s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sp_goods` LIMIT 1   [ RunTime:0.0077s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.096729s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.096781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.055798s ]
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 87 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 88 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\81752021d3db6849359d9fb8fd8e6815.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009525s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000618s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000008s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.009878s ]
+NOTIC: [2] file_put_contents(/application/View/Goods/goodsList.html): failed to open stream: No such file or directory D:\amp\apache\htdocs\Shop\application\Admin\Controller\GoodsController.class.php 第 33 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-08-14T12:03:31+08:00 ] 127.0.0.1 /Admin/Goods/modifyGoods/goods_id/15.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `sp_cate` [ RunTime:0.0245s ]
+SQL: SELECT * FROM `sp_cate` WHERE ( cate_pid=0 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = '15' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.182930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.182980s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+

@@ -1,0 +1,531 @@
+[ 2017-09-05T00:09:41+08:00 ] 127.0.0.1 /Admin/Main/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.020968s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.021043s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000559s ]
+
+[ 2017-09-05T00:09:44+08:00 ] 127.0.0.1 /Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017121s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2017-09-05T00:09:45+08:00 ] 127.0.0.1 /Admin/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001247s ]
+
+[ 2017-09-05T00:09:49+08:00 ] 127.0.0.1 /Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006982s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-09-05T00:09:52+08:00 ] 127.0.0.1 /Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009797s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-09-05T00:09:52+08:00 ] 127.0.0.1 /Admin/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-09-05T00:10:00+08:00 ] 127.0.0.1 /Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+SQL: SELECT * FROM `sp_manager` WHERE ( manager_name='admin' ) LIMIT 1   [ RunTime:0.1022s ]
+SQL: UPDATE `sp_manager` SET `manager_login`='1504541400' WHERE `manager_id` = '1' [ RunTime:0.0460s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008196s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-09-05T00:10:01+08:00 ] 127.0.0.1 /Admin/Main/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-09-05T00:10:01+08:00 ] 127.0.0.1 /Admin/Main/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-09-05T00:10:02+08:00 ] 127.0.0.1 /Admin/Main/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.1370s ]
+SQL: SHOW COLUMNS FROM `sp_auth` [ RunTime:0.0359s ]
+SQL: SELECT * FROM `sp_auth` WHERE ( auth_pid=0 and auth_show=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `sp_auth` WHERE ( auth_pid!=0 and auth_show=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000160s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000358s ]
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-09-05T00:10:04+08:00 ] 127.0.0.1 /Admin/Main/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: SELECT * FROM `sp_manager` WHERE `manager_id` = '1' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-09-05T00:11:00+08:00 ] 127.0.0.1 /Admin/Main/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `sp_role` [ RunTime:0.0153s ]
+SQL: SHOW COLUMNS FROM `sp_auth` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `sp_auth` WHERE ( auth_pid=0 and auth_show=1 )  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `sp_auth` WHERE ( auth_pid!=0 and auth_show=1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_c - assumed 'auth_c' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+NOTIC: [8] Use of undefined constant auth_a - assumed 'auth_a' D:\amp\apache\htdocs\Shop\application\Runtime\Cache\Admin\8886c883f26679820c2d578a40e6f967.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008159s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008260s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-09-05T00:11:03+08:00 ] 127.0.0.1 /Admin/Goods/addGoods.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+SQL: SHOW COLUMNS FROM `sp_cate` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `sp_cate` WHERE ( cate_pid=0 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122287s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.122340s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-09-05T00:11:09+08:00 ] 127.0.0.1 /Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SELECT g.*,c.cate_name pname FROM sp_goods g left join sp_cate c on g.goods_cateid=c.cate_id  LIMIT 0,5   [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sp_goods` LIMIT 1   [ RunTime:0.1096s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000344s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043727s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001121s ]
+
+[ 2017-09-05T00:11:09+08:00 ] 127.0.0.1 /Admin/Goods/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-09-05T00:11:15+08:00 ] 127.0.0.1 /Admin/Goods/photos/goods_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = '21' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_goodspic` [ RunTime:0.0177s ]
+SQL: SELECT * FROM `sp_goodspic` WHERE ( pic_goodsid=21 )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130329s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001425s ]
+
+[ 2017-09-05T00:11:36+08:00 ] 127.0.0.1 /Admin/Goods/photos/goods_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+NOTIC: [2] array_merge(): Argument #2 is not an array D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Upload.class.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005119s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-09-05T00:11:41+08:00 ] 127.0.0.1 /Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SELECT g.*,c.cate_name pname FROM sp_goods g left join sp_cate c on g.goods_cateid=c.cate_id  LIMIT 0,5   [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sp_goods` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001609s ]
+
+[ 2017-09-05T00:11:41+08:00 ] 127.0.0.1 /Admin/Goods/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-09-05T00:12:12+08:00 ] 127.0.0.1 /Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+SQL: SELECT g.*,c.cate_name pname FROM sp_goods g left join sp_cate c on g.goods_cateid=c.cate_id  LIMIT 0,5   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sp_goods` LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007105s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-09-05T00:12:12+08:00 ] 127.0.0.1 /Admin/Goods/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+
+[ 2017-09-05T00:12:15+08:00 ] 127.0.0.1 /Admin/Goods/photos/goods_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = '21' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `sp_goodspic` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `sp_goodspic` WHERE ( pic_goodsid=21 )  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2017-09-05T00:12:26+08:00 ] 127.0.0.1 /Admin/Goods/photos/goods_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `sp_goodspic` [ RunTime:0.0166s ]
+NOTIC: [8] Undefined variable: x D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: x D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: x D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: x D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: x D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: x D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: x D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: x D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: x D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\amp\apache\htdocs\Shop\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+SQL: INSERT INTO `sp_goodspic` (`pic_goodsid`,`pic_ori`,`pic_big`,`pic_mid`,`pic_sma`) VALUES ('21','./Uploads/2017-09-05/59ad7b692bb87.png','./Uploads/2017-09-05/big_59ad7b692bb87.png','./Uploads/2017-09-05/mid_59ad7b692bb87.png','./Uploads/2017-09-05/sma_59ad7b692bb87.png'),('21','./Uploads/2017-09-05/59ad7b692daab.png','./Uploads/2017-09-05/big_59ad7b692daab.png','./Uploads/2017-09-05/mid_59ad7b692daab.png','./Uploads/2017-09-05/sma_59ad7b692daab.png'),('21','./Uploads/2017-09-05/59ad7b693816e.jpg','./Uploads/2017-09-05/big_59ad7b693816e.jpg','./Uploads/2017-09-05/mid_59ad7b693816e.jpg','./Uploads/2017-09-05/sma_59ad7b693816e.jpg') [ RunTime:0.0437s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2017-09-05T00:12:31+08:00 ] 127.0.0.1 /Admin/Goods/goodsList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SELECT g.*,c.cate_name pname FROM sp_goods g left join sp_cate c on g.goods_cateid=c.cate_id  LIMIT 0,5   [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sp_goods` LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012552s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001233s ]
+
+[ 2017-09-05T00:12:31+08:00 ] 127.0.0.1 /Admin/Goods/images/ticon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-09-05T00:12:34+08:00 ] 127.0.0.1 /Admin/Goods/photos/goods_id/21.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = '21' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_goodspic` [ RunTime:0.0163s ]
+SQL: SELECT * FROM `sp_goodspic` WHERE ( pic_goodsid=21 )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001966s ]
+
